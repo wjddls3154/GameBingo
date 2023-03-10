@@ -1,5 +1,5 @@
 # 짝 맞추기(과일 빙고) 게임
-
+- 블로그에 내용 정리 : https://blog.naver.com/wjddls3154/222651128678
 ## * 메인 화면
 ### (모든 카드가 뒤집힌 상태로 시작한다, Try 횟수도 0으로 시작)
 ![1](https://user-images.githubusercontent.com/37132897/154782559-b19cd2a9-cf50-400a-bb04-693edeb1f712.png)
